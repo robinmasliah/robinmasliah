@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @robinmasliah !
-- 👀 I’m interested in computer science, data science and data engineering.
-- 🌱 I’m currently learning Pytorch.
-- I'm currently studying computer vision.
 - 📫 How to reach me : LinkedIn
 
 <!---
